@@ -7,3 +7,5 @@ imbalanced-learn
 jupyter
 ipykernel
 pytest
+xgboost
+joblib
