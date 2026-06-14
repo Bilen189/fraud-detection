@@ -1,0 +1,5 @@
+Dataset,Model,AUC_PR,F1_Score
+Fraud_Data,Logistic Regression,0.6664975361241878,0.6042095268238645
+Fraud_Data,Random Forest,0.7041256752408466,0.6043613707165109
+Credit Card,Logistic Regression,0.6750409387333339,0.1
+Credit Card,Random Forest,0.7762801845570437,0.6610169491525424
